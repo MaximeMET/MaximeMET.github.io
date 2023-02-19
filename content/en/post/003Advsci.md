@@ -1,0 +1,9 @@
+---
+date: 2017-04-11T11:13:32-04:00
+description: "Tao Xu, Yiran Luo, Shiwei Wu, Baozhong Deng, Shi Chen, Yunbo Zhong*, Shenghao Wang*, Gaëtan Lévêque, Renaud Bachelot, Furong Zhu*"
+featured_image: "/images/OCLTOC.jpg"
+tags: []
+title: "High-Performance Semitransparent Organic Solar Cells: From Competing Indexes of Transparency and Efficiency Perspectives"
+---
+
+Semitransparent organic solar cells (ST-OSCs) offer potentially more opportunities in areas of self-powered greenhouses and building-integrated photovoltaic systems. In this work, the effort to use a combination of solution-processable gold nanobipyramids (AuNBPs)-based hole transporting layer and a low/high dielectric constant double layer optical coupling layer (OCL) for improving the performance of ST-OSCs over the two competing indexes of power conversion efficiency (PCE) and average visible transmittance (AVT) is reported. The fabrication and characterization of the ST-OSCs are guided, at design and analyses level, using the theoretical simulation and experimental optimization. The use of a low/high dielectric constant double layer OCL helps enhancing the visible light transparency while reflecting the near-infrared (NIR) photons back into the photoactive layer for light harvesting. NIR absorption enhancement in the ST-OSCs is realized through the AuNBPs-induced localized surface plasmon resonance (LSPR). The weight ratio of the polymer donor to nonfullerene acceptor in the bulk heterojunction is adjusted to realize the maximum NIR absorption enhancement, enabled by the AuNBPs-induced LSPR, achieving the high-performance ST-OSCs with a high PCE of 13.15% and a high AVT of 25.9%.

@@ -1,8 +1,8 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Les Études de Baozhong DENG"
 
-description: "Le dernier thème dont vous aurez besoin. Peut-être"
+description: "Dans le domaine de l'électronique organique"
 cascade:
   featured_image: '/images/SHUsmile.jpg'
 ---
-Bienvenue sur mon blog à propos de mon travail du moment. Je travaille sur une idée de livre. Vous pouvez lire quelques chapitres plus bas.
+Mes intérêts de recherche portent sur les dispositifs optoélectroniques organiques tels que les cellules solaires organiques et les photodétecteurs organiques. 

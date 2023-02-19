@@ -1,9 +1,9 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+description: "Tao Xu, Chunliu Gong, Shuanglong Wang, Hong Lian, Weixia Lan*, Gaëtan Lévêque, Bruno Grandidier, Jerôme Plain, Renaud Bachelot, Bin Wei*, Furong Zhu*"
+featured_image: "/images/solr201900522-blkfxd-0001-m"
+tags: []
+title: "Ultraviolet-Durable Flexible Nonfullerene Organic Solar Cells Realized by a Hybrid Nanostructured Transparent Electrode"
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago

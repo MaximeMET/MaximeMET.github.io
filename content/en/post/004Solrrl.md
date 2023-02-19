@@ -1,0 +1,8 @@
+---
+date: 2017-04-12T11:14:48-04:00
+description: "Baozhong Deng, Youyang Shen, Chi Wang, Gaëtan Lévêque, Tao Xu*"
+featured_image: "/images/dualTOC.jpg"
+tags: []
+title: "Dual Photonic Structures Enable Semitransparent Organic Photovoltaics with Enhanced Light Utilization"
+---
+Semitransparent organic photovoltaics (ST-OPVs) offer promising prospects for self-powered greenhouses and building-integrated photovoltaic systems. However, it remains to be a critical challenge to balance the two competing indexes of power conversion efficiency (PCE) and average visible transmittance (AVT). Herein, we report our effort to develop high-performance ST-OPVs by employing dual photonic structures with a front single-layer optical coupling layer (OCL) and a rear single-layer antireflection coating (ARC). The material selection and thickness of both OCL and ARC have been systematically guided by combining theoretical simulation and experimental optimization, leading to significantly enhanced light utilization in ST-OPVs. As a result, the use of dual photonic structures enable ST-OPVs based on the active layer of PM6:Y6 to demonstrate a high AVT of 35.7% and a good PCE of 10.29%, yielding an excellent LUE of 3.67% with a remarkable improvement of 43% comparing with that of the control device. This work provides a simple yet effective strategy of light manipulation for the development of high performing ST-OPVs.

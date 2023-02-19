@@ -1,0 +1,9 @@
+---
+date: 2017-04-09T10:58:08-04:00
+description: "La grande halle"
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+tags: ["scene"]
+title: "Carbure de Niobium MXene Modifie la Couche de Transport de Trous Hybride pour Atteindre de Cellules Solaires Organiques Haute Performance Plus de 19%"
+---
+
+Le carbure de niobium (Nb2C) MXene, en tant que nouveau matériau bidimensionnel, présente un grand potentiel d'application dans le domaine photovoltaïque en raison de son excellente conductivité, de sa grande surface et de son excellente transmittance. Dans ce travail, nous avons développé un nouveau PEDOT traitable en solution: la couche hybride de transport de trous (CTT) PEDOT:PSS - Nb2C pour améliorer les performances des dispositifs dans les cellules solaires organiques (CSO). En optimisant le taux de dopage de Nb2C MXene dans PEDOT:PSS, l'CSO de la couche active ternaire à base de pm6: BTP - ec9: l8 - Bo permet d'obtenir un rendement PCE (Power Convention efficiency) optimal de 19,33%, le plus élevé à ce jour parmi les CSO à jonction unique utilisant des matériaux 2D. Il a été constaté que l'incorporation de Nb2C - MXene peut faciliter la séparation de phase des segments PEDOT et PSS, améliorant ainsi la conductivité et la fonction de travail de PEDOT:PSS. Les performances considérablement améliorées du dispositif peuvent être attribuées à une mobilité plus élevée des trous et à une capacité d'extraction de charge, ainsi qu'à une probabilité plus faible de recombinaison interfaciale générée par le CTT hybride. De plus, la polyvalence du CTT hybride dans l'amélioration des performances CSO a été démontrée sur la base de différents récepteurs non fullerènes. Ces résultats montrent que Nb2C - MXene a un bon potentiel pour développer des CSO haute performance. 
