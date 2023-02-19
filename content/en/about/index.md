@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Baozhong DENG is a master student of the Sino-European School of Technology in Shanghai University, doing his research in Prof. Tao Xu's group."
-featured_image: '/images/utsueus.jpg'
+featured_image: '/images/utseus.jpg'
 menu:
   main:
     weight: 1
