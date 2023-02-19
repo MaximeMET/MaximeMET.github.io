@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "Tao Xu, Chunliu Gong, Shuanglong Wang, Hong Lian, Weixia Lan*, Gaëtan Lévêque, Bruno Grandidier, Jerôme Plain, Renaud Bachelot, Bin Wei*, Furong Zhu*"
-featured_image: "/images/solr201900522-blkfxd-0001-m"
+featured_image: "/images/solr201900522-blkfxd-0001-m.jpg"
 tags: []
 title: "Ultraviolet-Durable Flexible Nonfullerene Organic Solar Cells Realized by a Hybrid Nanostructured Transparent Electrode"
 ---
