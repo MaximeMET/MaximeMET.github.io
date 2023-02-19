@@ -1,8 +1,8 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "La grande halle"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
+featured_image: "/images/nb2cTOC.jpg"
+tags: []
 title: "Carbure de Niobium MXene Modifie la Couche de Transport de Trous Hybride pour Atteindre de Cellules Solaires Organiques Haute Performance Plus de 19%"
 ---
 
